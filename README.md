@@ -2,8 +2,7 @@
 
 <div align="center">
   
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
-[![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_LINK)
+
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
 [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
