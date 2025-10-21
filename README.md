@@ -2,9 +2,12 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-digihoss.online-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.digihoss.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hossam%20EL%20HAMDI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossam-el-hamdi)
-[![Email](https://img.shields.io/badge/Email-hossam.el--hamdi@grenoble--inp.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossam.el-hamdi@grenoble-inp.org)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
+[![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_LINK)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
+[![Spotify](https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](YOUR_SPOTIFY_LINK)
 
 </div>
 
@@ -155,9 +158,9 @@ I'm always open to collaborating on innovative projects, especially in **full-st
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://www.digihoss.online)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge)](https://www.digihoss.online)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge)](https://linkedin.com/in/hossam-el-hamdi)
-[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:hossam.el-hamdi@grenoble-inp.org)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:hossamelhamdi6@gmail.com)
 
 </div>
 
