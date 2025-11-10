@@ -40,12 +40,6 @@ const hossam = {
 - Developed real-time data dashboard using Flask, WebSocket, HTML/CSS/JavaScript
 - Delivered scalable industrial automation features within agile development team
 
-### ⚡ Engineering Intern | SNRT (National Broadcasting Company)
-*July 2024 - September 2024 | Rabat, Morocco*
-- Gained expertise in large-scale industrial electrical installations
-- Developed practical skills in electrical parameter calculations using Caneco BT
-- Bridged theoretical knowledge with real-world industrial applications
-
 ---
 
 ## 🛠️ Tech Stack
@@ -153,7 +147,7 @@ Comprehensive foundation in Mathematics, Physics, and Computer Science
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on innovative projects, especially in **full-stack development**, **IoT systems**, and **Industry 4.0** solutions. Feel free to reach out!
+I'm always open to collaborating on innovative projects, especially in **full-stack development**, **IoT systems**, and **innovative staffs** solutions. Feel free to reach out!
 
 <div align="center">
 
